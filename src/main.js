@@ -6,6 +6,7 @@ import store from './store'
 import VeeValidate from 'vee-validate';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './assets/css/style.css';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import {
